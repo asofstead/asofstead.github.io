@@ -1,0 +1,32 @@
+body {
+	width:900px;
+	margin:auto;
+	}
+
+p {
+	font-family:gill sans;
+    font-size:15px;
+    font-weight:300;
+	text-align:center;
+	width:600px;
+	}
+h1 {
+	font-family:courier;
+	}
+nav {
+	display:block;
+	font-family:gill sans;
+	font-weight:300;
+	font-size:15px;
+	padding-top:20px;
+	padding-bottom:15px;
+	border-bottom-style:solid;
+	border-width:thin;
+	}	
+a {
+	color:black;
+	text-decoration:none;
+	padding-right:10px;
+	padding-left:10px
+}			
+	
